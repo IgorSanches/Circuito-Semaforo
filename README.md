@@ -7,5 +7,5 @@ O circuito foi criado conforme a imagem abaixo:
 <img src="img/Circuito Semaforo.png"><br>
 
 
-Utilizando a programação em blocos, o código ficou assim:<br
+Utilizando a programação em blocos, o código ficou assim:<br>
 <img src="img/CircuitoSemaforoBloco.png"><br>
